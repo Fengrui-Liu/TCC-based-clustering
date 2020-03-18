@@ -1,0 +1,66 @@
+A,1,disk_110667,2017-07-23,0
+
+         Unnamed: 0 serial_number manufacturer  ...  smart_255_normalized  smart_255raw        dt
+51876         51876   disk_110667            A  ...                   NaN           NaN  20170715
+93816         93816   disk_110667            A  ...                   NaN           NaN  20170718
+117003       117003   disk_110667            A  ...                   NaN           NaN  20170717
+195220        34219   disk_110667            A  ...                   NaN           NaN  20170711
+218586        57585   disk_110667            A  ...                   NaN           NaN  20170713
+441011       119009   disk_110667            A  ...                   NaN           NaN  20170716  
+555642        72639   disk_110667            A  ...                   NaN           NaN  20170720  
+768795       124791   disk_110667            A  ...                   NaN           NaN  20170714  
+969068         3065   disk_110667            A  ...                   NaN           NaN  20170719  
+1062829       96826   disk_110667            A  ...                   NaN           NaN  20170712  
+1383823       95818   disk_110667            A  ...                   NaN           NaN  20170709  
+1430687      142682   disk_110667            A  ...                   NaN           NaN  20170710  
+
+[12 rows x 515 columns]
+
+A,1,disk_42711,2017-07-21,6
+
+         Unnamed: 0 serial_number manufacturer  model  ...  smart_254raw  smart_255_normalized  smart_255raw        dt
+17732         17732    disk_42711            A      1  ...           NaN                   NaN           NaN  20170709
+106185       106185    disk_42711            A      1  ...           NaN                   NaN           NaN  20170711
+207735        46734    disk_42711            A      1  ...           NaN                   NaN           NaN  20170721
+340647        18645    disk_42711            A      1  ...           NaN                   NaN           NaN  20170722
+614218       131215    disk_42711            A      1  ...           NaN                   NaN           NaN  20170713
+757870       113866    disk_42711            A      1  ...           NaN                   NaN           NaN  20170715
+781119       137115    disk_42711            A      1  ...           NaN                   NaN           NaN  20170710
+781120       137116    disk_42711            A      1  ...           NaN                   NaN           NaN  20170718
+882065        77060    disk_42711            A      1  ...           NaN                   NaN           NaN  20170716
+1122168      156165    disk_42711            A      1  ...           NaN                   NaN           NaN  20170720
+1143989       16985    disk_42711            A      1  ...           NaN                   NaN           NaN  20170717
+1190712       63708    disk_42711            A      1  ...           NaN                   NaN           NaN  20170719
+1396326      108321    disk_42711            A      1  ...           NaN                   NaN           NaN  20170712
+
+[13 rows x 515 columns]
+
+
+
+
+A,1,disk_44296,2017-07-25,6
+
+    Unnamed: 0 serial_number manufacturer  model  ...  smart_254raw  smart_255_normalized  smart_255raw        dt
+18071         18071    disk_44296            A      1  ...           NaN                   NaN           NaN  20170713
+18072         18072    disk_44296            A      1  ...           NaN                   NaN           NaN  20170710
+184511        23510    disk_44296            A      1  ...           NaN                   NaN           NaN  20170717
+277736       116735    disk_44296            A      1  ...           NaN                   NaN           NaN  20170724
+340954        18952    disk_44296            A      1  ...           NaN                   NaN           NaN  20170723
+360311        38309    disk_44296            A      1  ...           NaN                   NaN           NaN  20170709
+360312        38310    disk_44296            A      1  ...           NaN                   NaN           NaN  20170719
+383644        61642    disk_44296            A      1  ...           NaN                   NaN           NaN  20170718
+477014       155012    disk_44296            A      1  ...           NaN                   NaN           NaN  20170715
+661115        17111    disk_44296            A      1  ...           NaN                   NaN           NaN  20170721
+735364        91360    disk_44296            A      1  ...           NaN                   NaN           NaN  20170711
+758219       114215    disk_44296            A      1  ...           NaN                   NaN           NaN  20170722
+812109         7104    disk_44296            A      1  ...           NaN                   NaN           NaN  20170716
+812110         7105    disk_44296            A      1  ...           NaN                   NaN           NaN  20170725
+858799        53794    disk_44296            A      1  ...           NaN                   NaN           NaN  20170726
+1144304       17300    disk_44296            A      1  ...           NaN                   NaN           NaN  20170712
+1373065       85060    disk_44296            A      1  ...           NaN                   NaN           NaN  20170720
+
+[17 rows x 515 columns]
+
+
+
+smart_187_normalized', 'smart_3_normalized', 'smart_1_normalized', 'smart_12_normalized', 'smart_197_normalized', 'smart_195_normalized', 'smart_188_normalized', 'smart_193_normalized', 'smart_5_normalized', 'smart_192_normalized', 'smart_189_normalized', 'smart_4_normalized', 'smart_7_normalized', 'smart_198_normalized', 'smart_184_normalized', 'smart_9_normalized', 'smart_194_normalized', 'smart_190_normalized
